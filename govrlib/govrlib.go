@@ -3,8 +3,7 @@ package main
 import "C"
 import (
 	"fmt"
-
-	gl "github.com/go-gl/gl/v3.1/gles2"
+	"govrlib/gl"
 )
 
 var (
