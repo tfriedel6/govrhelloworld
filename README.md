@@ -18,7 +18,7 @@ Compiling for Windows should work with the `build.bat` file, but the same path a
 
 Some environment variables need to be set:
 
-OCULUS_SDK_PATH = The root path of the Oculus Mobile SDK
-ANDROID_NDK_HOME = The root path of the Android NDK
+OCULUS_SDK_PATH = The root path of the Oculus Mobile SDK  
+ANDROID_NDK_HOME = The root path of the Android NDK  
 
 Python needs to be installed for the Oculus build.
