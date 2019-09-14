@@ -1,0 +1,7 @@
+rootProject.projectDir = new File(System.getenv('OCULUS_SDK_PATH'))
+rootProject.name = "govrhelloworld"
+
+include ':', \
+    'govrhelloworld:Projects:Android'
+
+project(':govrhelloworld').projectDir = settingsDir;

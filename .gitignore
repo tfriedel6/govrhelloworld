@@ -1,0 +1,8 @@
+Projects/Android/*.keystore
+Projects/Android/.gradle
+Projects/Android/.externalNativeBuild
+Projects/Android/build
+govrlib/arm64-v8a
+govrlib/armeabi-v7a
+govrlib/govrlib.h
+
